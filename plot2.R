@@ -22,6 +22,7 @@ colnames(house_power) <- c("Date", "Time", "Global_active_power",
 
 library(dplyr)
 
+library(lubridate)
 
 ################################################
 # Select only data for Feb. 1 and Feb 2, 2007

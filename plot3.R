@@ -21,6 +21,7 @@ colnames(house_power) <- c("Date", "Time", "Global_active_power",
                            "Sub_metering_2", "Sub_metering_3")
 
 library(dplyr)
+library(lubridate)
 
 
 ################################################
