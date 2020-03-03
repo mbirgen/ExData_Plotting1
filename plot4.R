@@ -20,7 +20,6 @@
                              "Global_intensity", "Sub_metering_1",
                              "Sub_metering_2", "Sub_metering_3")
 
-
 library(dplyr)
 
 
